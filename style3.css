@@ -1,0 +1,9 @@
+
+.header {
+    background-color: gray;
+    height: 50px;
+}
+
+.header h1 {
+    margin: 0;
+}
